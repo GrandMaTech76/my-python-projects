@@ -1,0 +1,77 @@
+# my-python-projects
+
+A collection of beginner-friendly **Python projects** that showcase my growth in:
+
+- Programming fundamentals
+- Problem solving
+- Command-line apps
+- Working with simple APIs
+
+Each project is small on purpose — focused on learning one concept at a time.
+
+---
+
+## 📂 Project Highlights
+
+> You can keep these as “planned” or “in progress” and fill them in as you add code.
+
+1. **Personal Budget Tracker**
+   - CLI app to track income and expenses
+   - Calculates totals and net balance
+   - Great for practicing input handling and basic math
+
+2. **Guess the Number Game**
+   - The computer picks a random number
+   - The user guesses until they get it right
+   - Practices loops, conditionals, and random numbers
+
+3. **Simple Calculator**
+   - Performs addition, subtraction, multiplication, and division
+   - Reinforces functions and error handling
+
+4. **To-Do List Manager**
+   - Add, list, complete, and delete tasks
+   - Gets you used to working with lists and file storage
+
+5. **Rock, Paper, Scissors**
+   - Classic game against the computer
+   - Logic + randomness + user interaction
+
+6. **Basic Weather App**
+   - Fetches current weather data from an API (e.g., OpenWeather)
+   - Great intro to HTTP requests and JSON parsing
+
+7. **Prime Number Checker**
+   - Checks if a number is prime
+   - Optionally lists primes up to a given limit
+
+8. **Password Generator**
+   - Generates strong, random passwords
+   - Lets users choose length & character types
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Variables, data types, and control flow
+- Loops, functions, and error handling
+- Basic file I/O
+- Simple API calls and JSON parsing
+- Writing clear, commented code
+
+---
+
+## 🚀 How to Run
+
+Most projects follow this pattern:
+
+```bash
+# Clone the repo
+git clone https://github.com/GrandMaTech76/my-python-projects.git
+cd my-python-projects
+
+# Enter a specific project folder when you create them, e.g.:
+cd budget-tracker
+
+# Run the script
+python main.py    # or 'python3 main.py'
